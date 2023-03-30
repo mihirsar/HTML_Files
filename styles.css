@@ -79,8 +79,8 @@ li {
     font-size: larger;
     line-height: 2;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-    margin: 20px;
+    text-align: justify;
+    margin-left: 45%;
 }
 
 .intro {
